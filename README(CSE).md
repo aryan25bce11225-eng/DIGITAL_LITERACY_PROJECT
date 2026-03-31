@@ -2,7 +2,7 @@
 
 # Student Details
 - Name: Aryan Singh Chauhan  
-- Registration Number: [Your Registration Number]  
+- Registration Number: 25BCE11225 
 - Course: Digital Literacy (CSE0001)  
 - Institution: VIT Bhopal University  
 
@@ -12,7 +12,7 @@ This project focuses on developing essential digital literacy skills required fo
 # Project Structure
 task-1-presentation/ → Canva infographic  
 task-2-portfolio/ → LinkedIn, GitHub, Kaggle profiles  
-task-3-assessment/ → Google Form quiz  
+task-3-assessment/ → Google Form quiz (https://docs.google.com/forms/d/e/1FAIpQLSeVOiaYas22XCG0lvwXtRNJRNWkYbcM6UQTnv7UsZr0X4a38w/viewform?usp=publish-editor)
 task-4-email-etiquette/ → Emails, checklists  
 task-5-cyber-safety/ → Case study  
 
